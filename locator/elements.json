@@ -1,0 +1,24 @@
+{
+  "Login": {
+    "username": "email",
+    "password": "password",
+    "keep_signin": "Field",
+    "signin": "button btn btn-success btn-large",
+    "register": "have an account?"
+  },
+
+  "Registration": {
+    "firstname": "firstname",
+    "lastname": "lastname",
+    "email": "email",
+    "password": "password",
+    "confirmedpassword": "conform_password",
+    "terms": "//label[text()='Agree with the Terms & Conditions.']",
+    "register": "Register"
+  },
+
+  "Weather":{
+    "city": "s",
+    "currentWeather": "li.current.first.cl div.info span.cond"
+  }
+}

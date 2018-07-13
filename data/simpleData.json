@@ -1,0 +1,14 @@
+{
+  "Title": "Spiderman",
+  "Year": 1990,
+  "Rated": "N/A",
+  "Released": "N/A",
+  "Runtime": "5 min",
+  "Genre": "Drama",
+  "weather": "Mist",
+  "Directors": [
+    "name1",
+    "name2"
+  ],
+  "city": "Chennai, India"
+}

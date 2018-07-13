@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "summary": {
+      "required": false,
+      "schma": {
+        "type": "array",
+        "customId": 10001
+      },
+      "name": "My multi select",
+      "operations": [
+        "set",
+        "add"
+      ],
+      "allowedValues": [
+        "red",
+        "blue"
+      ]
+    }
+  }
+}
