@@ -1,5 +1,5 @@
 var Jasmine2HtmlReporter = require('protractor-jasmine2-html-reporter');
-
+//new command
 exports.config = {
     framework: 'jasmine',
     //seleniumAddress: 'http://localhost:4723/wd/hub',
